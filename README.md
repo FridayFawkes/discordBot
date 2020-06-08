@@ -1,2 +1,3 @@
 # discordBot
-Learn to make a discord bot
+Learning to make a discord bot in Python
+
